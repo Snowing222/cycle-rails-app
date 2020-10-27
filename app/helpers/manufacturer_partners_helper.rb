@@ -1,0 +1,2 @@
+module ManufacturerPartnersHelper
+end
